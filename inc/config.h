@@ -16,5 +16,5 @@ using namespace std;
 
 struct Config
 {
-	static constexpr char* =
+	//static constexpr char* =
 };
